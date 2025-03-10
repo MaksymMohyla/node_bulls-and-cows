@@ -28,6 +28,8 @@ function getBullsAndCows(userInput, numberToGuess) {
   return result;
 }
 
+// blablabla. AI is stupid.
+
 module.exports = {
   getBullsAndCows,
 };
